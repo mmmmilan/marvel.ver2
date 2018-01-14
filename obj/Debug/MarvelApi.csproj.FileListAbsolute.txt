@@ -1,0 +1,40 @@
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\roslyn\csc.exe
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\roslyn\vbc.exe
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\roslyn\VBCSCompiler.exe
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\MarvelApi.dll.config
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\MarvelApi.dll
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\MarvelApi.pdb
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\obj\Debug\MarvelApi.csprojResolveAssemblyReference.cache
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\obj\Debug\MarvelApi.dll
+c:\users\mmmmilan\documents\visual studio 2015\Projects\MarvelApi\MarvelApi\obj\Debug\MarvelApi.pdb
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\roslyn\csc.exe
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\roslyn\vbc.exe
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\MarvelApi.dll.config
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\MarvelApi.dll
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\MarvelApi.pdb
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\obj\Debug\MarvelApi.csprojResolveAssemblyReference.cache
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\obj\Debug\MarvelApi.dll
+C:\Users\mmmmilan\Documents\Visual Studio 2015\Projects\Marvel- vezba\MarvelApi\MarvelApi\obj\Debug\MarvelApi.pdb
